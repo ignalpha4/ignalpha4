@@ -1,4 +1,4 @@
-### Hi there,I'm Shubham 👋
+### Hi there👋
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ignalpha4&show_icons=true&theme=radical"/>
                        
