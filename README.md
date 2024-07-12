@@ -3,7 +3,7 @@
 <div align="center">
     ### Hi there👋
   <br><br>
-  <img  src="https://github-readme-stats.vercel.app/api?username=ignalpha4&show_icons=true&rank_icon=github&theme=radicaln" alt="GitHub Stats" rank_icon="github" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=ignalpha4&show_icons=true&rank_icon=github&theme=radical" alt="GitHub Stats" rank_icon="github" />
 </div>
 
                        
